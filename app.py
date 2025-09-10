@@ -2,8 +2,8 @@ import pandas as pd
 import streamlit as st
 import os
 
-st.set_page_config(page_title="Simple ATS", layout="wide")
-st.title("📂 Simple ATS - Candidate Search with Storage")
+st.set_page_config(page_title="HIRENGINE ATS", layout="wide")
+st.title("📂 HIRENGINE-CLIENT.DATA")
 
 # Create a folder to save uploaded files
 upload_folder = "uploaded_files"
